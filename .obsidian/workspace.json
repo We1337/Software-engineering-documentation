@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a1dee18a3f01170",
+        "id": "0775f8f67a3f8707",
         "type": "tabs",
         "children": [
           {
-            "id": "ec94e0b0d870df63",
+            "id": "2e73673f29f7953f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgresql/Postgre-SQL.md",
+                "file": "Symfony/Symfony-Framwork.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgresql/Postgre-SQL.md",
+                "file": "Symfony/Symfony-Framwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgresql/Postgre-SQL.md",
+                "file": "Symfony/Symfony-Framwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgresql/Postgre-SQL.md"
+                "file": "Symfony/Symfony-Framwork.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0015845aaf43e7f5",
+  "active": "2e73673f29f7953f",
   "lastOpenFiles": [
     "Postgresql/Postgre-SQL.md",
+    "Symfony/Symfony-Framwork.md",
+    "Symfony",
     "Postgresql"
   ]
 }
